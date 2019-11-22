@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/gray_icon_close.png</file>
+        <file>icon/icon_link-pdf.png</file>
+        <file>icon/icon_list-all_circ.png</file>
+        <file>icon/libreoffice-printeradmin.png</file>
+        <file>icon/pdfchain.png</file>
+        <file>icon/medlogo.svg</file>
+    </qresource>
+</RCC>
